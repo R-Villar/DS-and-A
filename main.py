@@ -8,4 +8,3 @@ def reverse_string(string):
 
 
 reverse_string('hello gg')
-
