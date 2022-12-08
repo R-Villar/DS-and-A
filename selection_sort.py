@@ -17,4 +17,3 @@ def selection_sort(arr):
 
 
 print(selection_sort([5, 3, 6, 2, 10]))
-
